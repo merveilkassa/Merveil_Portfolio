@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#merveil{
+    font-size: 30px !important;
+}
+.moimeme{
+margin-bottom: 20px !important;
+}
+.adobe{
+    position: relative !important;
+    left: 400px !important;
+}
+#para{
+    text-align: center !important;
+    font-size: 30px;
+}
+.coloriage{
+    color: #f7b11a !important;
+}
+#je-suis{
+    color: #ffff;
+    font-size: 20px;
+}
+
+
